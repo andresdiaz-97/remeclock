@@ -1,0 +1,8 @@
+{
+  "name": "remeclock",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "2fd11c4e"
+}

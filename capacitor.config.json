@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "remeclock",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
